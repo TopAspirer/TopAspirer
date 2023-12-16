@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TopAspirer
-- 👀 I’m interested in learning computer science
+- 👀 I’m interested in learning and applying the computer skills I learn on any project
 - 💞️ I’m looking to collaborate on any project, while learning how to perfect my skill. 
 - 📫 How to reach me? Any where. My email is tendolloyd@gmail.com
 
