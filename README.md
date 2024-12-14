@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dark horse!
+- 👋 Hi, I’m Lloyd!
 - 👀 I’m interested in learning and applying the computer skills I learn on any project
 - 💞️ I’m looking to collaborate on any project, while learning how to perfect my skill. 
 - 📫 How to reach me? Any where. My email is tendolloyd@gmail.com
