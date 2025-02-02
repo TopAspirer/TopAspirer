@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lloyd!
-- 👀 I’m interested in learning and applying the computer skills I learn on any project
-- 💞️ I’m looking to collaborate on any project, while learning how to perfect my skill. 
+- 👋 Hi, I’m Lloyd Tendo Nsambu
+- 👀 I’m learning Data Science at Wilfrid Laurier University
+- 💞️ I’m looking to collaborate on any project with my scope and beyond, make some great things! 
 - 📫 How to reach me? Any where. My email is tendolloyd@gmail.com
 
 <!---
